@@ -1,6 +1,6 @@
 # SoundFinder
 
-## Sound Localization on the MSP430
+### Sound Localization on the MSP430
 
 ## The Video
 
