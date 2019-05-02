@@ -6,6 +6,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Bp2Un_X9Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## The Commercial (shorter length)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITGVNiprCLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Overview
 For my ELEC 327 ﬁnal project, I designed a sensor board to do sound localization with echo rejection. The board was comprised of 12 SPI LED’s in a circular grid, 4 electret condenser microphones, a battery pack, and an MSP430G2553 embedded microcontroller. This project represents a minimum viable version of the initial concept, and the board features signiﬁcant opportunities for expansion at a later date. 
 
@@ -100,8 +103,5 @@ Here are some things that could be done with little to no hardware modiﬁcation
 
 In this project, I rely on a small averaging circuit embedded in the microphone board to determine the amplitude of the sound in hardware so that I don’t have to do that in software. To aid in the development of methods that require directly sampling the audio, such as the Phase Delay method, I have included a jumper that can be set on each channel for direct audio input. 
 
-
-[Link](url) and ![Image](src)
-```
 
 
