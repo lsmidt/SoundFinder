@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+# SoundFinder
 
-You can use the [editor on GitHub](https://github.com/lsmidt/SoundFinder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Sound Localization on the MSP430
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
+### 
 
 <video src="video.mp4" width="320" height="200" controls preload></video>
 
